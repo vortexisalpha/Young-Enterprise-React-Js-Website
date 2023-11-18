@@ -1,5 +1,5 @@
 
-# Basketball Navigation Website For The App Created for Young Enterprise competition
+# Basketball Navigation Website For The App Created For Young Enterprise competition
 
 ## What is it?
 
