@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+#Website for Basketball Naviagation app
+
+##What is it?
+Young enterprise inovation award winning project concept website created in Type Script and React.js using the idea of component stacking.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
